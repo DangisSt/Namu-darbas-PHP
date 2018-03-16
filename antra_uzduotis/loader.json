@@ -1,0 +1,14 @@
+{
+    "psr-4": {
+        "important\\personal\\": [
+            "app/filters/files"
+        ],
+        "example\\": [
+            "app/filters/other",
+            "app/filters/other/misc"
+        ],
+        "main\\": [
+            "src"
+        ]
+    }
+}
